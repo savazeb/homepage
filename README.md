@@ -1,6 +1,6 @@
 <div>
-    <img src="./__assets/Desktop.png" width="40%"/>
-    <img src="./__assets/Smartphone.png" width="12%"/>
+    <img src="./__assets/Desktop.png" width="400"/>
+    <img src="./__assets/Smartphone.png" width="120"/>
 </div>
 
 # <img src="./__assets/Logo.png" width=50/> My HomePage
