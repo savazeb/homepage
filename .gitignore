@@ -1,0 +1,7 @@
+# javascript
+node_modules/
+.next/
+
+# environment
+.vscode/
+.env

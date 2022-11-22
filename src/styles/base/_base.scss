@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+
+#app {
+    height: 100%;
+}
+a {
+    text-decoration: none;
+}
+li {
+    list-style: none;
+}
+html,
+body {
+    position: relative;
+    height: 100%;
+}
+
+body {
+    background: $white;
+    font-family: $typeface;
+    font-weight: $medium-weight;
+    font-size: 14px;
+    color: $black;
+    margin: 0;
+    padding: 0;
+}

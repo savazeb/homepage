@@ -1,0 +1,11 @@
+FROM node:18.12.1-bullseye-slim
+
+WORKDIR homepage/
+
+COPY . .
+
+RUN npm install package.json
+
+EXPOSE 3000
+
+CMD ["npm", "run", "dev"]
