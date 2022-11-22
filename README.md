@@ -1,18 +1,13 @@
-<img src="./src/static/favicon.png" width=20%/>
-
-# My HomePage
-
-Terminal based GUI for my personal homepage. Check my [homepage](www.savazeb.com)!
-
-## Overview
 <div>
     <img src="./__assets/Desktop.png" width="40%"/>
     <img src="./__assets/Smartphone.png" width="12%"/>
 </div>
 
-Builed with:
-- Next.js
-- Docker
+# <img src="./__assets/Logo.png" width=50/> My HomePage
+
+Terminal based GUI for my personal homepage. Check my [homepage](www.savazeb.com)!
+
+
 
 ## Requirements
 1. Docker or npm  
