@@ -5,7 +5,7 @@
 
 # <img src="./__assets/Logo.png" width=50/> My HomePage
 
-Terminal based GUI for my personal homepage. Check my [homepage](www.savazeb.com)!
+Terminal based GUI for my personal homepage. Check my [homepage](https://www.savazeb.com)!
 
 
 
